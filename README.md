@@ -42,9 +42,10 @@
 
 <img align="left" alt="Terminal" width="26px" src="./images/terminal-dark.svg" />
 
+
+<br />
+<br />
+
 ### ℹ️ Other 
 
 View my latest repository and please put a star if you like it!
-
-<br />
-<br />

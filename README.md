@@ -4,8 +4,7 @@
 
 - High School Student
 - I'm a half day programmer.
-- DiscordJS bot Coder.
-- Loves to learn in early morning and night as well!
+- Loves to learn new stuffs in early morning and night as well!
 
 ### IDE & Tools
 

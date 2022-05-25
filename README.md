@@ -2,6 +2,8 @@
 
 ## 📄 Little about me
 
+**The Word 'Cajole' in my Account means: Pushing myself on something...**
+
 - High School Student
 - I'm a half day programmer.
 - Loves to learn new stuffs in early morning and night as well!

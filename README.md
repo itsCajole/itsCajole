@@ -1,6 +1,6 @@
 # Hi, it's Cajole here! 👋
 
-## Little about me
+## 📄 Little about me
 
 - High School Student
 - I'm a half day programmer.

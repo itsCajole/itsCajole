@@ -6,7 +6,7 @@
 
 *- High School Student*
 *- I'm a half day programmer.*
-- Loves to learn new stuffs in early morning and night as well!
+*- Loves to learn new stuffs in early morning and night as well!*
 
 ### IDE & Tools
 

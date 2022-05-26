@@ -8,7 +8,7 @@
 *- I'm a half day programmer.*
 *- Loves to learn new stuffs in early morning and night as well.*
 
-## 🛠️ IDE & Tools
+## IDE & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> 
 
@@ -43,7 +43,7 @@
 <br />
 <br />
 
-## ℹ️ Other 
+## Other 
 
 <img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Cajole#3009
 

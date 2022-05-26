@@ -45,4 +45,6 @@
 
 ## ℹ️ Other 
 
-View my latest repository and please put a star if you like it!
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"/> Cajole#3009
+
+*View my latest repository and please put a star if you like it!
